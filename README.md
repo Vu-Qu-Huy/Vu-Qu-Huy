@@ -10,6 +10,7 @@ I'm **Vu Quang Huy**, a passionate Backend Engineer in the making, with a focus 
 - **Containers**
 - **NodeJS**
 - **API**
+- **Ruby on Rails**
 
 ## 📫 How to Reach Me
 - **Email**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)
