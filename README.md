@@ -17,6 +17,6 @@ I'm **Vu Quang Huy**, a passionate Backend Engineer in the making, with a focus 
 
 ## 🎯 Goals
 - **Short-Term**: Master backend frameworks and tools.
-- **Long-Term**: Become a skilled Backend Engineer, working on large-scale projects and embracing new technologies like AI and blockchain.
+- **Long-Term**: Become a skilled Backend Engineer, working on large-scale projects and embracing new technologies like blockchain.
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 
