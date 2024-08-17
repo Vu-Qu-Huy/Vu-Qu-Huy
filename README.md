@@ -26,7 +26,7 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 
 # 初めまして！👋
 
-私は**Vu Quang Huy**です。**Ruby on Rails**やウェブ技術に情熱を注いでいるバックエンドエンジニアを目指しています。現在、**ホーチミン市情報通信大学**の学生として、**バックエンド開発**のスキルを磨いています。
+私は**ヴー・クアン・フイ**です。**Ruby on Rails**やウェブ技術に情熱を注いでいるバックエンドエンジニアを目指しています。現在、**ホーチミン市情報通信大学**の学生として、**バックエンド開発**のスキルを磨いています。
 
 ## 🌟 プロジェクト
 - **[パーソナルブログ](https://github.com/Vu-Qu-Huy/Blog_Website )**: ユーザーが投稿、コメント、いいねできるRailsベースのブログ。リッチテキストサポートのためにAction Textを学び、実装しています。
