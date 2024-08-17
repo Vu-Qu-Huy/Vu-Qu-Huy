@@ -4,7 +4,7 @@ I'm **Vu Quang Huy**, a passionate Backend Engineer in the making, with a focus 
 
 ## 🌟 Projects
 - **[Personal Blog](https://github.com/Vu-Qu-Huy/Blog_Website )**: A Rails-based blog where users can post, comment, and like posts. Learning and implementing Action Text for rich text support.
-- **[User List App](https://github.com/Vu-Qu-Huy/User_List-app)**: A CRUD application with user authentication using Devise and styled with the Bootstrap framework.
+- **[User List App](https://github.com/Vu-Qu-HuyUser_List)**: A CRUD application with user authentication using Devise and styled with the Bootstrap framework.
 
 ## 🌱 I'm Currently Learning
 - **Containers**
@@ -30,7 +30,7 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 
 ## 🌟 プロジェクト
 - **[パーソナルブログ](https://github.com/Vu-Qu-Huy/Blog_Website )**: ユーザーが投稿、コメント、いいねできるRailsベースのブログ。リッチテキストサポートのためにAction Textを学び、実装しています。
-- **[ユーザーリストアプリ](https://github.com/Vu-Qu-Huy/User_List-app)**: Deviseを使ったユーザー認証とBootstrapフレームワークでスタイリングされたCRUDアプリケーションです。
+- **[ユーザーリストアプリ](https://github.com/Vu-Qu-Huy/User_List)**: Deviseを使ったユーザー認証とBootstrapフレームワークでスタイリングされたCRUDアプリケーションです。
 
 ## 🌱 現在学んでいること
 - **コンテナ技術**
