@@ -1,3 +1,31 @@
+
+
+# 初めまして！👋
+
+私は**ヴー・クアン・フイ**です。**Ruby on Rails**やウェブ技術に情熱を注いでいるバックエンドエンジニアを目指しています。現在、**ホーチミン市情報通信大学**の学生として、**バックエンド開発**のスキルを磨いています。
+
+## 🌟 プロジェクト
+- **[パーソナルブログ](https://github.com/Vu-Qu-Huy/Blog_Website )**: ユーザーが投稿、コメント、いいねできるRailsベースのブログ。リッチテキストサポートのためにAction Textを学び、実装しています。
+- **[ユーザーリストアプリ](https://github.com/Vu-Qu-Huy/User_List)**: Deviseを使ったユーザー認証とBootstrapフレームワークでスタイリングされたCRUDアプリケーションです。
+
+## 🌱 現在学んでいること
+- **コンテナ技術**
+- **NodeJS**
+- **API**
+- **Ruby on Rails**
+
+## 📫 連絡先
+- **メール**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)
+- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)
+
+## 🎯 目標
+- **短期的**: バックエンドフレームワークやツールをより良くすること。
+- **長期的**: 高度なバックエンドエンジニアになり、大規模プロジェクトに取り組み、ブロックチェーンなどの新技術を受け入れること。
+
+見に来てくれてありがとう！リポジトリを探検し、ぜひご連絡ください。
+
+---
+
 # Hi there! 👋
 
 I'm **Vu Quang Huy**, a passionate Backend Engineer in the making, with a focus on **Ruby on Rails** and web technologies. I'm currently a student at **Ho Chi Minh City University of Information Technology**, honing my skills in **Backend Development**.
@@ -23,27 +51,3 @@ I'm **Vu Quang Huy**, a passionate Backend Engineer in the making, with a focus 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. 
 
 ---
-
-# 初めまして！👋
-
-私は**ヴー・クアン・フイ**です。**Ruby on Rails**やウェブ技術に情熱を注いでいるバックエンドエンジニアを目指しています。現在、**ホーチミン市情報通信大学**の学生として、**バックエンド開発**のスキルを磨いています。
-
-## 🌟 プロジェクト
-- **[パーソナルブログ](https://github.com/Vu-Qu-Huy/Blog_Website )**: ユーザーが投稿、コメント、いいねできるRailsベースのブログ。リッチテキストサポートのためにAction Textを学び、実装しています。
-- **[ユーザーリストアプリ](https://github.com/Vu-Qu-Huy/User_List)**: Deviseを使ったユーザー認証とBootstrapフレームワークでスタイリングされたCRUDアプリケーションです。
-
-## 🌱 現在学んでいること
-- **コンテナ技術**
-- **NodeJS**
-- **API**
-- **Ruby on Rails**
-
-## 📫 連絡先
-- **メール**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)
-- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)
-
-## 🎯 目標
-- **短期的**: バックエンドフレームワークやツールをより良くすること。
-- **長期的**: 高度なバックエンドエンジニアになり、大規模プロジェクトに取り組み、ブロックチェーンなどの新技術を受け入れること。
-
-見に来てくれてありがとう！リポジトリを探検し、ぜひご連絡ください。
