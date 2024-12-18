@@ -1,55 +1,76 @@
+---
 
+# こんにちは！👋  
 
-# 初めまして！👋
+私は**Vu Quang Huy**と申します。**フルスタックエンジニア**を目指し、ウェブ技術に情熱を注いでいます。現在、**ホーチミン市情報技術大学**で学びながら、スキルを磨いています。
 
-私は**ヴー・クアン・フイ**です。Ruby on Railsやウェブ技術に情熱を注いでいるフルスタックエンジニアを目指しています。現在、ホーチミン市情報通信大学の学生として、バックエンドとフロントエンドのスキルを磨いています。
+## 🌟 プロジェクト  
+- **[E-Commerce Website](https://github.com/ckietlam/UIT-IE104-Men-Clothing-Sale-Website)**  
+  **Node.js**、**Express.js**、**EJS**を使用したチームプロジェクトで、直感的なショッピング体験と管理ツールを提供します。  
+  - **主な貢献**:  
+    - **ERD図**を設計し、**フロントエンドとバックエンドのAPI統合**を担当。  
+    - **認証機能**と**取引メールの自動化**を実装。  
+    - バグ修正を通じて安定したプロダクション環境を実現。  
 
-## 🌟 プロジェクト
-- **[パーソナルブログ](https://github.com/Vu-Qu-Huy/Blog_Website )**: ユーザーが投稿、コメント、いいねできるRailsベースのブログ。リッチテキストサポートのためにAction Textを学び、実装しています。
-- **[ユーザーリストアプリ](https://github.com/Vu-Qu-Huy/User_List)**: Deviseを使ったユーザー認証とBootstrapフレームワークでスタイリングされたCRUDアプリケーションです。
+- **[Personal Blog](https://github.com/Vu-Qu-Huy/Blog_Website)**  
+  **Ruby on Rails**で構築したブログで、投稿、コメント、いいねが可能。リッチテキスト対応。  
 
-## 🌱 現在学んでいること
-- **コンテナ技術**
-- **NodeJS**
-- **API**
-- **Ruby on Rails**
-- **フロントエンドフレームワーク**
+- **[User List App](https://github.com/Vu-Qu-Huy/User_List)**  
+  **Devise**を用いた認証機能と、**Bootstrap**でスタイリングされたCRUDアプリケーション。  
 
-## 📫 連絡先
-- **メール**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)
-- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)
+## 🌱 学習中  
+- **Node.js**、**API設計**、**Vue.js**、**Ruby on Rails**  
 
-## 🎯 目標
-- **短期的**: フロントエンドとバックエンドフレームワークやツールをより良くすること。
-- **長期的**: 高度なフルスタックエンジニアになり、大規模プロジェクトに取り組み、ブロックチェーンなどの新技術を受け入れること。
+## 📫 連絡方法  
+- **メール**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)  
+- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)  
 
-見に来てくれてありがとう！リポジトリを探検し、ぜひご連絡ください。
+## 🎯 目標  
+- **短期目標**:  
+  - チーム開発で**AWS S3**を活用し、フルスタック開発スキルを強化。  
+  - **PocketBase**と**Vue.js**を使ってインタラクティブなチャットアプリを構築。  
+
+- **長期目標**:  
+  - 大規模で影響力のあるプロジェクトに貢献し、価値のあるプロダクトを開発。  
+  - 優秀なチームと協力し、テクノロジーで社会課題を解決。  
 
 ---
 
-# Hi there! 👋
+# Hi there! 👋  
 
-I'm **Vu Quang Huy**, a passionate Fullstack Engineer in the making, with a focus on **Ruby on Rails** and web technologies. I'm currently a student at **Ho Chi Minh City University of Information Technology**, honing my skills in Backend and Frontend Development.
+I'm **Vu Quang Huy**, an aspiring **Fullstack Engineer** passionate about web technologies. Currently, I'm studying at **Ho Chi Minh City University of Information Technology**, honing my skills to become a skilled developer.
 
-## 🌟 Projects
-- **[Personal Blog](https://github.com/Vu-Qu-Huy/Blog_Website )**: A Rails-based blog where users can post, comment, and like posts. Learning and implementing Action Text for rich text support.
-- **[User List App](https://github.com/Vu-Qu-Huy/User_List)**: A CRUD application with user authentication using Devise and styled with the Bootstrap framework.
+## 🌟 Projects  
+- **[E-Commerce Website](https://github.com/ckietlam/UIT-IE104-Men-Clothing-Sale-Website)**  
+  A team project built with **Node.js**, **Express.js**, and **EJS**, featuring user-friendly shopping and admin management tools.  
+  - **Key Contributions**:  
+    - Designed the **ERD diagram** and coordinated **frontend-backend API integration**.  
+    - Implemented **authentication** and **transactional emails** with Nodemailer.  
+    - Debugged and ensured a stable production environment.  
 
-## 🌱 I'm Currently Learning
-- **Containers**
-- **NodeJS**
-- **API**
-- **Ruby on Rails**
-- **FrontEnd Framework**
+- **[Personal Blog](https://github.com/Vu-Qu-Huy/Blog_Website)**  
+  Built with **Ruby on Rails**, allowing users to post, comment, and like, with rich text formatting.  
 
-## 📫 How to Reach Me
-- **Email**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)
-- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)
+- **[User List App](https://github.com/Vu-Qu-Huy/User_List)**  
+  A CRUD application with authentication using **Devise** and a clean interface styled with **Bootstrap**.  
 
-## 🎯 Goals
-- **Short-Term**: Improve my skills in both frontend and backend frameworks and tools.
-- **Long-Term**: Become a skilled Fullstack Engineer, working on large-scale projects and embracing new technologies like blockchain.
+## 🌱 Learning  
+- **Node.js**, **API Design**, **Vue.js**, **Ruby on Rails**
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. 
+## 📫 How to Reach Me  
+- **Email**: [vuquanghuy0805@gmail.com](mailto:vuquanghuy0805@gmail.com)  
+- **LinkedIn**: [Vũ Quang Huy](https://www.linkedin.com/in/vu-qu-huy)  
+
+## 🎯 Goals  
+- **Short-Term**:  
+  - Strengthen fullstack skills with tools like **AWS S3**.  
+  - Develop an interactive **Vue.js chat app** powered by **PocketBase**.  
+
+- **Long-Term**:  
+  - Contribute to impactful, large-scale projects that create real value.  
+  - Collaborate with skilled teams to solve meaningful challenges using technology.  
 
 ---
+
+Thanks for stopping by! Feel free to explore my repositories and connect with me.  
+訪問ありがとうございます！ぜひリポジトリをチェックして、気軽にご連絡ください。
