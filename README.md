@@ -5,7 +5,7 @@
 私は**Vu Quang Huy**と申します。**フルスタックエンジニア**を目指し、ウェブ技術に情熱を注いでいます。現在、**ホーチミン市情報技術大学**で学びながら、スキルを磨いています。
 
 ## 🌟 プロジェクト  
-- **[E-Commerce Website](https://github.com/ckietlam/UIT-IE104-Men-Clothing-Sale-Website)**  
+- **[E-Commerce Website](https://github.com/Vu-Qu-Huy/Men-Clothing-Sale-Website)**  
   **Node.js**、**Express.js**、**EJS**を使用したチームプロジェクトで、直感的なショッピング体験と管理ツールを提供します。  
   - **主な貢献**:  
     - **ERD図**を設計し、**フロントエンドとバックエンドのAPI統合**を担当。  
