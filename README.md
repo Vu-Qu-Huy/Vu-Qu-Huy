@@ -5,6 +5,9 @@
 私は**Vu Quang Huy**と申します。**フルスタックエンジニア**を目指し、ウェブ技術に情熱を注いでいます。現在、**ホーチミン市情報技術大学**で学びながら、スキルを磨いています。
 
 ## 🌟 プロジェクト  
+- **[Google AI Gemini Chatbot - Vue.js Chat App](https://github.com/Vu-Qu-Huy/Google-Ai-Gemini_Chatbot-VueJS_ChatApp)**  
+  Google AI Geminiを使用したAI駆動のインタラクションを備えたリアルタイムチャットアプリ。Vue.jsとPocketbaseで構築されています。グループチャット、ユーザー認証（Googleログイン）、およびGeminiとの1対1のチャットをサポートしています。
+  
 - **[E-Commerce Website](https://github.com/Vu-Qu-Huy/Men-Clothing-Sale-Website)**  
   **Node.js**、**Express.js**、**EJS**を使用したチームプロジェクトで、直感的なショッピング体験と管理ツールを提供します。  
   - **主な貢献**:  
@@ -41,6 +44,9 @@
 I'm **Vu Quang Huy**, an aspiring **Fullstack Engineer** passionate about web technologies. Currently, I'm studying at **Ho Chi Minh City University of Information Technology**, honing my skills to become a skilled developer.
 
 ## 🌟 Projects  
+- **[Google AI Gemini Chatbot - Vue.js Chat App](https://github.com/Vu-Qu-Huy/Google-Ai-Gemini_Chatbot-VueJS_ChatApp)**  
+  A real-time chat app with AI-powered interactions using Google AI Gemini, built with Vue.js and Pocketbase. Supports group chats, user authentication (Google login), and 1-1 chat with Gemini
+
 - **[E-Commerce Website](https://github.com/ckietlam/UIT-IE104-Men-Clothing-Sale-Website)**  
   A team project built with **Node.js**, **Express.js**, and **EJS**, featuring user-friendly shopping and admin management tools.  
   - **Key Contributions**:  
